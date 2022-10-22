@@ -1,5 +1,8 @@
 # Hey! I'm [Flashi](https://myurls.co/flashi)!
 
+![Banner](https://imgur.com/4jRuo8R.png)
+
+
 # 💫 About Me:
 🎊 30th August<br>🦊 Fox Network Development<br>🛠 wannabe Full-Stack Dev<br>🎛 Music Producer
 
