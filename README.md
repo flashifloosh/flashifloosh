@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🎊 30th August<br>br>🛠 wannabe Full-Stack Dev<br>🎛 Music Producer
+🎊 30th August<br>🛠 wannabe Full-Stack Dev<br>🎛 Music Producer
 
 
 ## 🌐 Socials:
