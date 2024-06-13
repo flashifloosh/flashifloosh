@@ -1,4 +1,4 @@
-# Hey! I'm [Flashi](https://myurls.co/flashi)!
+# Hey! I'm Flashi!
 
 ![Banner](https://imgur.com/4jRuo8R.png)
 
